@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/slopy/__init__.py
+src/slopy/slopy.py
+src/slopy.egg-info/PKG-INFO
+src/slopy.egg-info/SOURCES.txt
+src/slopy.egg-info/dependency_links.txt
+src/slopy.egg-info/top_level.txt
